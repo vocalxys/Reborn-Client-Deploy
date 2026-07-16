@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "버그 패치 및 신규 기능 추가",
+  "version": "0.1.0",
+  "notes": "Reborn Client Beta",
   "pub_date": "2026-07-16T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "여기에 나중에 .sig 내용을 복사합니다",
-      "url": "여기에 나중에 다운로드 링크를 붙여넣습니다"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSS1ArL1JMVTNKelJTZ0k2dFFhRUdPMUZCOG56OVZadXUvdnM4ZnkraVlEMXNDSG00YUdHZkxGam95SDJpNzVhY1pEQUprM3RTUEJoZnZ4bjRzTG5UNUxMTXNQd2E2TGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTk0NTU4CWZpbGU6UmVib3JuIENsaWVudF8wLjEuMF94NjRfZW4tVVMubXNpLnppcApEV2V2Z2pONXYzZ3FwT3VTL2dldjR5Und6Ny9rRy9sMFMwZTRneC81VGxMWm02Tjg3T1hYdmxRN3FOKzVsNjgwR1hhRHZZL1MwdkRNL2Y3TDZlMUhDQT09Cg==",
+      "url": "https://github.com/vocalxys/Reborn-Client-Deploy/releases/download/v0.1.0/Reborn.Client_0.1.0_x64_en-US.msi.zip"
     }
   }
 }
