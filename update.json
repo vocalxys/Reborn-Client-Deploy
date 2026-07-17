@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "Reborn Client Beta 0.1.4",
+  "version": "0.1.5",
+  "notes": "Reborn Client Beta 0.1.5",
   "pub_date": "2026-07-17T09:40:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSS1ArL1JMVTNKemN2R1lhQk9jSGQvM0RLTUFtM1poOG8zWktsMGE3REp3T3ZiU2ZYRmJVbDFNeGptTFI2eFUxQnRnOTBiMWxDUCtZZXB1LytscS9GSFJNUytSZmltVXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjUyMzA3CWZpbGU6UmVib3JuIENsaWVudF8wLjEuNF94NjRfZW4tVVMubXNpLnppcApocjVvM24yNzlyVUFCQ3pWRWNXM2pXb1dqUWR5cDRTdXk5MGVRSjlmRUh4UGVUMW1vbVlhZFFtcnk3TG83RDcxZ0ltRmVvNzZhMG13ZjY4c1dMN2VCZz09Cg==",
-      "url": "https://github.com/vocalxys/Reborn-Client-Deploy/releases/download/v0.1.4/Reborn.Client_0.1.4_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSS1ArL1JMVTNKelhFM2dZNFRyQWhZWFRFK1lwc2dDRVpsMVQvQzBuc3dJcHVkNWgwSDdwbm1oL0UxTndyelBGM0RKKzdXY0lNYW1kMUVPd3RKL0lwUVp5T1JQNHRScVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjUyODIwCWZpbGU6UmVib3JuIENsaWVudF8wLjEuNV94NjRfZW4tVVMubXNpLnppcAo1UHN4Qlo5S215NW1YTGc4SGpMd3Z0WVQ5TmRPUFhubWlld1ZCalE1dFJQRHhjZ1NYUFY5Q3EyZFNud08rRkZyd3k5SkZmM2tvTWVhcmFOeHI4ekdBUT09Cg==",
+      "url": "https://github.com/vocalxys/Reborn-Client-Deploy/releases/download/v0.1.5/Reborn.Client_0.1.5_x64_en-US.msi.zip"
     }
   }
 }
