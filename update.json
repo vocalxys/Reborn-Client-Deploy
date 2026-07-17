@@ -1,6 +1,6 @@
 {
   "version": "0.1.2",
-  "notes": "- 인스턴스 램 개별 설정 탭 추가\n- RebornPack 윈도우 파일 즉시 인식 연동(Single Instance)\n- 압축 오류 완전 해결(tar)\n- 탭 메뉴 텍스트 쪼개짐 방지 및 우측 스크롤 UI 도입",
+  "notes": "Reborn Client Beta 0.1.2",
   "pub_date": "2026-07-17T09:40:00Z",
   "platforms": {
     "windows-x86_64": {
