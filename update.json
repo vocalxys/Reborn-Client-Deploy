@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "Reborn Client Beta",
-  "pub_date": "2026-07-16T14:45:00Z",
+  "version": "0.1.2",
+  "notes": "- 인스턴스 램 개별 설정 탭 추가\n- RebornPack 윈도우 파일 즉시 인식 연동(Single Instance)\n- 압축 오류 완전 해결(tar)\n- 탭 메뉴 텍스트 쪼개짐 방지 및 우측 스크롤 UI 도입",
+  "pub_date": "2026-07-17T09:40:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/vocalxys/Reborn-Client-Deploy/releases/download/v0.1.1/Reborn.Client_0.1.1_x64_en-US.msi.zip",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSS1ArL1JMVTNKelVjRnhyK1JrR3Y5R3RaYzlxSGlHenpRUXFSUlhadWdOZ0xTWVRpanBvbnJHQnVQMVh5RlU3WTlJNWdpWVRXK29BNHVYaGhUcHEwc1Y2eGpXTzc4VndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjEzNjIwCWZpbGU6UmVib3JuIENsaWVudF8wLjEuMV94NjRfZW4tVVMubXNpLnppcApITUNMOXg4djBIeXhkUWVhNTNDUVN1QnlMc2JwTTJ3azZJN2IraStBeHNMQzhMUHVJZGF2b1ZzaEJJcUt6WVF1REtLaHM0YzZpeGxFZjFIaTNIa1RDZz09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSS1ArL1JMVNXRCQ3FYQXlmMENLK1dudCtCQT09Cg==Z0gyWTBoWndmMEZ6eWF6d09jUTNoK1lQaE5xV2pGLzRpRmhV",
+      "url": "https://github.com/vocalxys/Reborn-Client-Deploy/releases/download/v0.1.2/Reborn.Client_0.1.2_x64_en-US.msi.zip"
     }
   }
 }
